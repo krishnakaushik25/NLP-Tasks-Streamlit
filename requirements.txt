@@ -1,0 +1,7 @@
+textblob
+gensim==3.8.3
+spacy
+nltk
+matplotlib
+pandas
+streamlit
